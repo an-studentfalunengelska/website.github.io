@@ -23,7 +23,8 @@ body
     padding: 1em;
     transform: rotate(354deg);
 }
-.cardimage p 
-{
+.cardimage p {
     text-align: center;
+    font-size: 20px;
+    font-family: monospace;
 }
