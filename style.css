@@ -18,6 +18,7 @@ body
 }
 .cardimage 
 {
+    transform: rotate(45);
     background-color: white;
     width: 250px;
 }
