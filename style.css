@@ -20,6 +20,8 @@ body
 {
     background-color: white;
     width: 250px;
+    padding: 1em;
+    transform: rotate(354deg);
 }
 .cardimage p 
 {
